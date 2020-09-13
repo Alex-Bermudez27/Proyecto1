@@ -17,12 +17,13 @@
 			<Item Name="Mensajes.lvlib" Type="Library" URL="../Libraries/Mensajes/Mensajes.lvlib"/>
 			<Item Name="UI.lvlib" Type="Library" URL="../Libraries/UI/UI.lvlib"/>
 		</Item>
-		<Item Name="Tester" Type="Folder"/>
-		<Item Name="Test Adquisicion API.vi" Type="VI" URL="../Libraries/Adquisicion/Test Adquisicion API.vi"/>
-		<Item Name="Test Analisis API.vi" Type="VI" URL="../Libraries/Analisis/Test Analisis API.vi"/>
-		<Item Name="Test Config API.vi" Type="VI" URL="../Libraries/Config/Test Config API.vi"/>
-		<Item Name="Test Mensajes API.vi" Type="VI" URL="../Libraries/Mensajes/Test Mensajes API.vi"/>
-		<Item Name="Test UI API.vi" Type="VI" URL="../Libraries/UI/Test UI API.vi"/>
+		<Item Name="Tester" Type="Folder">
+			<Item Name="Test Adquisicion API.vi" Type="VI" URL="../Libraries/Adquisicion/Test Adquisicion API.vi"/>
+			<Item Name="Test Analisis API.vi" Type="VI" URL="../Libraries/Analisis/Test Analisis API.vi"/>
+			<Item Name="Test Config API.vi" Type="VI" URL="../Libraries/Config/Test Config API.vi"/>
+			<Item Name="Test Mensajes API.vi" Type="VI" URL="../Libraries/Mensajes/Test Mensajes API.vi"/>
+			<Item Name="Test UI API.vi" Type="VI" URL="../Libraries/UI/Test UI API.vi"/>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AddNamedRendezvousPrefix.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/rendezvs.llb/AddNamedRendezvousPrefix.vi"/>
